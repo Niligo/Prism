@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="cling-core-2.1.2-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/repository/org/fourthline/cling/cling-core/2.1.2-SNAPSHOT/cling-core-2.1.2-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.m2/repository/org/fourthline/cling/cling-core/2.1.2-SNAPSHOT/cling-core-2.1.2-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
