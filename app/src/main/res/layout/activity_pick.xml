@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <ImageView
+        android:id="@+id/photo"
+        android:layout_width="wrap_content"
+        android:layout_above="@+id/take"
+        android:layout_height="wrap_content" />
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@android:color/transparent" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_alignParentBottom="true"
+        android:background="@color/colorPrimary"
+        android:id="@+id/take">
+
+        <com.niligo.prism.widget.NPTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="@string/color_picked"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/text_normal" />
+    </RelativeLayout>
+
+    <ImageView
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:id="@+id/thumb"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/background_circle1" />
+</RelativeLayout>

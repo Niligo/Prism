@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:background="@drawable/background_dialog"
+    android:layout_height="300dp">
+
+
+    <com.niligo.prism.widget.NPTextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="@string/schedule"
+        android:id="@+id/title"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:textColor="@color/color9"
+        android:textSize="@dimen/text_normal"
+        android:background="@drawable/background_dialog_title" />
+
+    <com.niligo.prism.widget.NPTextView
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:text="@string/turn"
+        android:id="@+id/turn"
+        android:gravity="center"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="35dp"
+        android:layout_below="@+id/title"
+        android:textColor="@color/color9"
+        android:textSize="@dimen/text_normal" />
+
+    <Spinner
+        android:layout_width="150dp"
+        android:layout_height="40dp"
+        android:id="@+id/spinner"
+        android:layout_alignTop="@+id/turn"
+        android:layout_toRightOf="@+id/turn"/>
+
+    <com.niligo.prism.widget.NPTextView
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:text="@string/at"
+        android:gravity="center"
+        android:id="@+id/at"
+        android:layout_toRightOf="@+id/spinner"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="35dp"
+        android:layout_below="@+id/title"
+        android:textColor="@color/color9"
+        android:textSize="@dimen/text_normal" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="35dp"
+        android:layout_marginRight="20dp"
+        android:layout_below="@+id/turn"
+        android:weightSum="2">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/title"
+            android:id="@+id/rel2"
+            android:layout_weight="1"
+            android:layout_marginRight="10dp">
+
+            <android.support.design.widget.TextInputEditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/edittext2"
+                android:singleLine="true"
+                android:maxLength="2"
+                android:textColor="@android:color/black"
+                android:background="@android:color/transparent"
+                android:inputType="numberDecimal"
+                android:textSize="@dimen/text_normal"
+                android:gravity="center"
+                android:hint="12" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:id="@+id/line2"
+                android:background="@color/color1"
+                android:layout_marginTop="10dp"
+                android:layout_below="@+id/edittext2" />
+
+            <com.niligo.prism.widget.NPTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/hour"
+                android:id="@+id/textView8"
+                android:textColor="@color/color1"
+                android:textSize="@dimen/text_small"
+                android:layout_below="@+id/line2"
+                android:layout_marginTop="5dp" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/title"
+            android:id="@+id/rel1"
+            android:layout_weight="1"
+            android:layout_marginLeft="10dp">
+
+            <android.support.design.widget.TextInputEditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/edittext1"
+                android:singleLine="true"
+                android:maxLength="2"
+                android:textColor="@android:color/black"
+                android:background="@android:color/transparent"
+                android:inputType="numberDecimal"
+                android:textSize="@dimen/text_normal"
+                android:gravity="center"
+                android:hint="45" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:id="@+id/line1"
+                android:background="@color/color1"
+                android:layout_marginTop="10dp"
+                android:layout_below="@+id/edittext1" />
+
+            <com.niligo.prism.widget.NPTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/minute"
+                android:id="@+id/textView9"
+                android:textColor="@color/color1"
+                android:textSize="@dimen/text_small"
+                android:layout_below="@+id/line1"
+                android:layout_marginTop="5dp" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@drawable/background_rect1"
+        android:id="@+id/config"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="35dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp">
+
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:id="@+id/imageView6"
+            android:src="@drawable/ok"
+            android:padding="6dp" />
+
+        <com.niligo.prism.widget.NPTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/done"
+            android:id="@+id/textView6"
+            android:layout_centerInParent="true"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/text_normal" />
+    </RelativeLayout>
+
+</RelativeLayout>

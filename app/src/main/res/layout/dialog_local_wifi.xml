@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="250dp"
+    android:background="@drawable/background_dialog">
+
+
+    <com.niligo.prism.widget.NPTextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="@string/choose_network"
+        android:id="@+id/title"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:textColor="@color/color9"
+        android:textSize="@dimen/text_normal"
+        android:background="@drawable/background_dialog_title" />
+
+    <ListView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/listView"
+        android:divider="@null"
+        android:layout_below="@+id/title"
+        android:layout_alignParentLeft="false"
+        android:layout_alignParentStart="false" />
+</RelativeLayout>

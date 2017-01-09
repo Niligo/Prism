@@ -1,0 +1,26 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="text_huge">20sp</dimen>
+    <dimen name="text_big">18sp</dimen>
+    <dimen name="text_normal">16sp</dimen>
+    <dimen name="text_small">14sp</dimen>
+    <dimen name="text_tiny">12sp</dimen>
+
+    <!-- Standart dimens for the color wheel -->
+    <dimen name="color_wheel_radius">124dp</dimen>
+    <dimen name="color_wheel_thickness">0dp</dimen>
+    <dimen name="color_center_halo_radius">0dp</dimen>
+    <dimen name="color_center_radius">0dp</dimen>
+    <dimen name="color_pointer_halo_radius">14dp</dimen>
+    <dimen name="color_pointer_radius">12dp</dimen>
+
+    <!-- Standart dimens for the bars -->
+    <dimen name="bar_thickness">6dp</dimen>
+    <dimen name="bar_length">210dp</dimen>
+    <dimen name="bar_pointer_radius">9dp</dimen>
+    <dimen name="bar_pointer_halo_radius">9dp</dimen>
+
+</resources>

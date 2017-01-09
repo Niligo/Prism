@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:descendantFocusability="blocksDescendants"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/background"
+        android:scaleType="centerCrop" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/overlay" />
+
+    <ImageView
+        android:layout_width="15dp"
+        android:layout_height="match_parent"
+        android:id="@+id/section"
+        android:background="#ec0000" />
+
+    <ImageView
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:id="@+id/icon"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@+id/section"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:src="@drawable/type_living_room" />
+
+    <com.niligo.prism.widget.NPTextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="asdasdasadacalcnaosnaocnaoncaoc"
+        android:layout_alignParentLeft="false"
+        android:layout_alignParentRight="false"
+        android:textSize="@dimen/text_normal"
+        android:layout_centerVertical="true"
+        android:textColor="@android:color/white"
+        android:layout_toRightOf="@+id/icon"
+        android:layout_toLeftOf="@+id/switch_" />
+
+    <android.support.v7.widget.SwitchCompat xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        app:switchMinWidth="50dp"
+        android:id="@+id/switch_"
+        android:checked="false"
+        app:track="@drawable/switch_bg_selector"
+        android:thumb="@drawable/switch_track_selector"
+        android:layout_centerVertical="true"
+        android:layout_alignParentRight="true"
+        android:paddingTop="20dp"
+        android:paddingBottom="20dp"
+        android:paddingRight="10dp"
+        android:paddingLeft="20dp" />
+
+</RelativeLayout>
+

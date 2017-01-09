@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@drawable/background_dialog"
+    android:layout_height="220dp">
+
+
+    <com.niligo.prism.widget.NPTextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="@string/favorite_colors"
+        android:id="@+id/title"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:textColor="@color/color9"
+        android:textSize="@dimen/text_normal"
+        android:background="@drawable/background_dialog_title" />
+
+    <ImageView
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:id="@+id/fave3"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/title"
+        android:layout_marginTop="30dp" />
+
+    <ImageView
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:id="@+id/fave2"
+        android:layout_below="@+id/title"
+        android:layout_toLeftOf="@+id/fave3"
+        android:layout_marginTop="30dp"
+        android:layout_marginRight="20dp"/>
+
+    <ImageView
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:id="@+id/fave1"
+        android:layout_below="@+id/title"
+        android:layout_toLeftOf="@+id/fave2"
+        android:layout_marginTop="30dp"
+        android:layout_marginRight="20dp"/>
+
+    <ImageView
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:id="@+id/fave4"
+        android:layout_below="@+id/title"
+        android:layout_toRightOf="@+id/fave3"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="20dp" />
+
+    <ImageView
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:id="@+id/fave5"
+        android:layout_below="@+id/title"
+        android:layout_toRightOf="@+id/fave4"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="20dp"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@drawable/background_rect1"
+        android:id="@+id/done"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="35dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp">
+
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:id="@+id/imageView6"
+            android:src="@drawable/ok"
+            android:padding="6dp" />
+
+        <com.niligo.prism.widget.NPTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/done"
+            android:id="@+id/textView6"
+            android:layout_centerInParent="true"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/text_normal" />
+    </RelativeLayout>
+
+</RelativeLayout>

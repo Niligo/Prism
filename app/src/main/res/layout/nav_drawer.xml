@@ -1,0 +1,23 @@
+<RelativeLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@color/colorPrimary"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:id="@+id/nav_header"
+        android:src="@drawable/menu_logo"
+        android:padding="20dp"
+        android:layout_marginTop="25dp" />
+
+    <ListView
+        android:id="@+id/nav_drawer_listView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        android:divider="@null"
+        android:layout_below="@+id/nav_header" />
+</RelativeLayout>

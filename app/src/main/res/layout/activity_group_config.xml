@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/colorPrimary">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/colorPrimary" />
+
+    <ImageView
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:id="@+id/imageView17"
+        android:src="@drawable/colorpicker"
+        android:layout_centerInParent="true" />
+
+    <com.larswerkman.holocolorpicker.ColorPicker
+        android:id="@+id/picker"
+        android:layout_width="210dp"
+        android:layout_height="210dp"
+        android:layout_centerInParent="true" />
+
+    <com.larswerkman.holocolorpicker.SVBar
+        android:id="@+id/svbar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/fave2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5dp" />
+
+    <ImageView
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:id="@+id/schedule"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="40dp"
+        android:src="@drawable/schedule"
+        android:layout_below="@+id/toolbar" />
+
+    <ImageView
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:id="@+id/fave"
+        android:layout_marginTop="10dp"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/favorite"
+        android:layout_below="@+id/toolbar" />
+
+    <ImageView
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:id="@+id/camera"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="40dp"
+        android:layout_alignParentRight="true"
+        android:src="@drawable/camera"
+        android:layout_below="@+id/toolbar" />
+
+    <ImageView
+        android:layout_width="90dp"
+        android:layout_height="90dp"
+        android:id="@+id/power"
+        android:layout_centerInParent="true"
+        android:src="@drawable/power_on"
+        android:visibility="visible" />
+
+    <ImageView
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:id="@+id/fave2"
+        android:src="@drawable/favorite2"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/imageView17"
+        android:layout_marginTop="5dp" />
+
+
+    <it.sephiroth.android.library.widget.HListView
+        android:id="@+id/hlistview"
+        android:layout_width="match_parent"
+        android:layout_height="40dip"
+        android:background="@color/color14"
+        app:hlv_dividerWidth="2dp"
+        android:layout_alignParentBottom="true" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="14dp"
+        app:srcCompat="@drawable/lighter"
+        android:id="@+id/imageView18"
+        android:layout_alignTop="@+id/svbar"
+        android:layout_toLeftOf="@+id/svbar"
+        android:layout_toStartOf="@+id/svbar"
+        android:layout_alignBottom="@+id/svbar" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="14dp"
+        app:srcCompat="@drawable/darker"
+        android:id="@+id/imageView19"
+        android:layout_alignTop="@+id/svbar"
+        android:layout_toRightOf="@+id/svbar"
+        android:layout_alignBottom="@+id/svbar" />
+
+</RelativeLayout>

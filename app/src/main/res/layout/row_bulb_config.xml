@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/nav_drawer_list_row_content"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:paddingLeft="20dp"
+    android:paddingRight="20dp">
+
+    <ImageView
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:id="@+id/nav_drawer_list_row_icon"
+        android:layout_alignParentRight="false"
+        android:src="@drawable/menu_settings"
+        android:layout_centerVertical="true"
+        android:layout_alignParentLeft="true" />
+
+
+    <com.niligo.prism.widget.NPTextView
+        android:id="@+id/nav_drawer_list_row_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/app_name"
+        android:layout_alignParentLeft="false"
+        android:layout_alignParentRight="false"
+        android:layout_marginRight="10dp"
+        android:textSize="@dimen/text_normal"
+        android:layout_marginLeft="10dp"
+        android:gravity="center_vertical"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@+id/nav_drawer_list_row_icon"
+        android:textColor="@android:color/white" />
+
+</RelativeLayout>
+

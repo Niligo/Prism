@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/mahdi/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.orbit/javax.servlet/3.0.0.v201112011016/aaaa85845fb5c59da00193f06b8e5278d8bf3f8/javax.servlet-3.0.0.v201112011016.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0aaaa85845fb5c59da00193f06b8e5278d8bf3f8">
+        <dex dex="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/pre-dexed/debug/javax.servlet-3.0.0.v201112011016_6f579fdca06091b85c51342cf634abd2fd496b86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mahdi/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-server/8.1.18.v20150929/ee8f0172c6ba2779ebaca0cc515bca0149a7f9e8/jetty-server-8.1.18.v20150929.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ee8f0172c6ba2779ebaca0cc515bca0149a7f9e8">
+        <dex dex="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/pre-dexed/debug/jetty-server-8.1.18.v20150929_e59b7af7e76051d2d09af63977304e8357544a90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mahdi/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.1/f7be08ec23c21485b9b5a1cf1654c2ec8c58168d/jsr305-3.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7be08ec23c21485b9b5a1cf1654c2ec8c58168d">
+        <dex dex="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/pre-dexed/debug/jsr305-3.0.1_0d51928e297159f6b290124c9138584f37d3d1c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/exploded-aar/com.android.support/palette-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6f68018b5ddc2493f5e5cecc5601c05d0539281a">
+        <dex dex="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/pre-dexed/debug/com.android.support-palette-v7-25.1.0_23287d770772b7fa883d85dc1aaab7da131f5c6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mahdi/workspace/NiligoPrism/app/libs/ormlite-core-4.48.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e579bd2905d0399af5029aaaf9817d5fa0ca88a5">
+        <dex dex="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/pre-dexed/debug/ormlite-core-4.48_19219a9cb877edd3cf31f86d6f9eac2f365078b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_d37189989b8664e17fb6f83fa8c7897c05d722c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.0_27d3710d7da4861ec9b648d290e739d6bd50db5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mahdi/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.4/695b63d702f505b9b916e02272e3b6381bade7f/gson-2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/pre-dexed/debug/gson-2.4_4dde064927eadf93574f75b95ba01dadce44cb35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.1.0_5aaf4480b839adccec4c0899b259e5e5479f8a92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_a3bc7b4223a26bc87acf73878d0fe41e916b5ba4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mahdi/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.1/19047bdb6a4fc00a44124f64ca98e88fc204e7e3/okhttp-3.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19047bdb6a4fc00a44124f64ca98e88fc204e7e3">
+        <dex dex="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/pre-dexed/debug/okhttp-3.3.1_4032fc7fdefdafea96fee10d8f435a62dd1f714b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mahdi/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-util/8.1.18.v20150929/fb8fb3debf99a626c827535bf06451a337c6b085/jetty-util-8.1.18.v20150929.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fb8fb3debf99a626c827535bf06451a337c6b085">
+        <dex dex="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/pre-dexed/debug/jetty-util-8.1.18.v20150929_97dcd84879a9543d1045e070956cf2f3bb8d36ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mahdi/.m2/repository/org/seamless/seamless-xml/1.1.1/seamless-xml-1.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ddc628b23904faf124b84f768e9caa03147da5ab">
+        <dex dex="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/pre-dexed/debug/seamless-xml-1.1.1_6febc1ec1d7b84b01600b6272a15e91daa41ae6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mahdi/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-http/8.1.18.v20150929/fdf349ff61dca634b49a8b1b90f854958f0eb969/jetty-http-8.1.18.v20150929.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fdf349ff61dca634b49a8b1b90f854958f0eb969">
+        <dex dex="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/pre-dexed/debug/jetty-http-8.1.18.v20150929_5a60deb18185b9c06ea55bc5df437208c0285768.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_6b23c976b12bf5958088c298ac3dde7df14b5d83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mahdi/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/19.0/6ce200f6b23222af3d8abb6b6459e6c44f4bb0e9/guava-19.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ce200f6b23222af3d8abb6b6459e6c44f4bb0e9">
+        <dex dex="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/pre-dexed/debug/guava-19.0_71956eda0e240813aaa776ace14e1f73b3d61daa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mahdi/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-servlet/8.1.18.v20150929/f47d750ea50dd21939a597b97844439557a28c6/jetty-servlet-8.1.18.v20150929.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0f47d750ea50dd21939a597b97844439557a28c6">
+        <dex dex="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/pre-dexed/debug/jetty-servlet-8.1.18.v20150929_b2b2321f4650964fc71c452f2ed959a3f7eef801.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mahdi/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.14/862a5bc736005d68727d1387844d09d62efdb6cb/slf4j-api-1.7.14.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="862a5bc736005d68727d1387844d09d62efdb6cb">
+        <dex dex="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/pre-dexed/debug/slf4j-api-1.7.14_cc1e01396411269781149f29416031ccda64b9db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mahdi/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-client/8.1.18.v20150929/f3cdc2e5a7b846dd1dd7641cd0fe8bf3f2d0ff1a/jetty-client-8.1.18.v20150929.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f3cdc2e5a7b846dd1dd7641cd0fe8bf3f2d0ff1a">
+        <dex dex="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/pre-dexed/debug/jetty-client-8.1.18.v20150929_0f4311de43e2a65e8d07b1cd52e2fcc39e3c0d7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_d481da76016c68931595d96d4542a08875282876.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mahdi/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/pre-dexed/debug/okio-1.8.0_e07375b40cac73002597cffc1b5495420ed7ecb0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/exploded-aar/pl.droidsonroids.gif/android-gif-drawable/1.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="18e3777df86177870625dce816292aecc871dc43">
+        <dex dex="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/pre-dexed/debug/pl.droidsonroids.gif-android-gif-drawable-1.2.1_8215ccba5100586f1d181ab511853a407487293b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mahdi/workspace/NiligoPrism/app/libs/ormlite-android-4.48.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="afa06f539a4026c10b247386312aa67404b80a16">
+        <dex dex="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/pre-dexed/debug/ormlite-android-4.48_37764759052c3c5852d7c38f868300341a05d682.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mahdi/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/pre-dexed/debug/library-2.4.0_31d4cc406dfafd1e9529664408b12f1b72a21228.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mahdi/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_793946a2c8443329dbb1e01b221901bbdfed8805.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mahdi/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.14/862a5bc736005d68727d1387844d09d62efdb6cb/slf4j-api-1.7.14.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="862a5bc736005d68727d1387844d09d62efdb6cb">
+        <dex dex="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/pre-dexed/debug/slf4j-api-1.7.14_cc1e01396411269781149f29416031ccda64b9db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mahdi/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-jdk14/1.7.14/32329169bdfa3d600f207f8606c58f2d2dd160e2/slf4j-jdk14-1.7.14.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="32329169bdfa3d600f207f8606c58f2d2dd160e2">
+        <dex dex="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/pre-dexed/debug/slf4j-jdk14-1.7.14_181b311c12e6d85c52b0df73c14d5970ac90285e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mahdi/.m2/repository/org/seamless/seamless-util/1.1.1/seamless-util-1.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="989fb6690245740d76ed08634c04610f52ca1e2a">
+        <dex dex="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/pre-dexed/debug/seamless-util-1.1.1_d2ab426cabd33b55c8b71d8b60e718801d5de1a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mahdi/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-io/8.1.18.v20150929/10874c1cae18d9588b2e6434b610ac9ee730833a/jetty-io-8.1.18.v20150929.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="10874c1cae18d9588b2e6434b610ac9ee730833a">
+        <dex dex="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/pre-dexed/debug/jetty-io-8.1.18.v20150929_7fbc3eed150077cfd23b17d3ef0dd2047a8a80ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mahdi/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-servlet/8.1.18.v20150929/f47d750ea50dd21939a597b97844439557a28c6/jetty-servlet-8.1.18.v20150929.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0f47d750ea50dd21939a597b97844439557a28c6">
+        <dex dex="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/pre-dexed/debug/jetty-servlet-8.1.18.v20150929_b2b2321f4650964fc71c452f2ed959a3f7eef801.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mahdi/workspace/android-sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_f4087c5a5e88211592340f8c323594c1c811725e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mahdi/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-security/8.1.18.v20150929/75759ce5819e2efce218654ab5ce1acd5c42700/jetty-security-8.1.18.v20150929.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="075759ce5819e2efce218654ab5ce1acd5c42700">
+        <dex dex="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/pre-dexed/debug/jetty-security-8.1.18.v20150929_6c5e00108aad6daa15df61d33e020a13b8789da5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mahdi/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-continuation/8.1.18.v20150929/52440f94ec15bf665646efb4481bb833db6dab67/jetty-continuation-8.1.18.v20150929.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="52440f94ec15bf665646efb4481bb833db6dab67">
+        <dex dex="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/pre-dexed/debug/jetty-continuation-8.1.18.v20150929_4e61db7d7cad6fd6959b2bdf90de3234d2ba31c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/exploded-aar/com.github.frankiesardo/linearlistview/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d52b800eb529f69bd5c807142349fe0967df8c99">
+        <dex dex="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/pre-dexed/debug/com.github.frankiesardo-linearlistview-1.0.1_aecea42390e3ace199866a261a22234b0abcb899.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/exploded-aar/de.psdev.licensesdialog/licensesdialog/1.8.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="314eddf77281187272037224c55ba673aabee57c">
+        <dex dex="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/pre-dexed/debug/de.psdev.licensesdialog-licensesdialog-1.8.1_aa7fb258479f52c18712e4ebc8e6e0b6646cd893.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mahdi/.m2/repository/org/fourthline/cling/cling-core/2.1.2-SNAPSHOT/cling-core-2.1.2-SNAPSHOT.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="63c3ee73f73b06a859ded4b8ed52ad5681de85e2">
+        <dex dex="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/pre-dexed/debug/cling-core-2.1.2-SNAPSHOT_dae2fb6b26ca7760d15ac09553e318a628c81102.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mahdi/.m2/repository/org/seamless/seamless-http/1.1.1/seamless-http-1.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="18cc72baf8fbb8f85993dfc4e252c5b6b8cc0139">
+        <dex dex="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/pre-dexed/debug/seamless-http-1.1.1_2ee44125a2ed9cbdd751f68857c9a13b50bfb8fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.1.0_4ab58ba2e96704bdbf66ee4456d35b86f12d33e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_a543b59f076539f3fb9d084b3fc92611897deb57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mahdi/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.1/19047bdb6a4fc00a44124f64ca98e88fc204e7e3/okhttp-3.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="19047bdb6a4fc00a44124f64ca98e88fc204e7e3">
+        <dex dex="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/pre-dexed/debug/okhttp-3.3.1_4032fc7fdefdafea96fee10d8f435a62dd1f714b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mahdi/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.1/f7be08ec23c21485b9b5a1cf1654c2ec8c58168d/jsr305-3.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f7be08ec23c21485b9b5a1cf1654c2ec8c58168d">
+        <dex dex="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/pre-dexed/debug/jsr305-3.0.1_0d51928e297159f6b290124c9138584f37d3d1c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mahdi/.m2/repository/org/seamless/seamless-xml/1.1.1/seamless-xml-1.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ddc628b23904faf124b84f768e9caa03147da5ab">
+        <dex dex="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/pre-dexed/debug/seamless-xml-1.1.1_6febc1ec1d7b84b01600b6272a15e91daa41ae6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_a9eb1359789b9d1718243f065372fdf587c65044.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mahdi/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-http/8.1.18.v20150929/fdf349ff61dca634b49a8b1b90f854958f0eb969/jetty-http-8.1.18.v20150929.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fdf349ff61dca634b49a8b1b90f854958f0eb969">
+        <dex dex="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/pre-dexed/debug/jetty-http-8.1.18.v20150929_5a60deb18185b9c06ea55bc5df437208c0285768.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mahdi/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.4/695b63d702f505b9b916e02272e3b6381bade7f/gson-2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/pre-dexed/debug/gson-2.4_4dde064927eadf93574f75b95ba01dadce44cb35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mahdi/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-util/8.1.18.v20150929/fb8fb3debf99a626c827535bf06451a337c6b085/jetty-util-8.1.18.v20150929.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fb8fb3debf99a626c827535bf06451a337c6b085">
+        <dex dex="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/pre-dexed/debug/jetty-util-8.1.18.v20150929_97dcd84879a9543d1045e070956cf2f3bb8d36ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/exploded-aar/de.psdev.licensesdialog/licensesdialog/1.8.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="314eddf77281187272037224c55ba673aabee57c">
+        <dex dex="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/pre-dexed/debug/de.psdev.licensesdialog-licensesdialog-1.8.1_aa7fb258479f52c18712e4ebc8e6e0b6646cd893.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mahdi/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.orbit/javax.servlet/3.0.0.v201112011016/aaaa85845fb5c59da00193f06b8e5278d8bf3f8/javax.servlet-3.0.0.v201112011016.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0aaaa85845fb5c59da00193f06b8e5278d8bf3f8">
+        <dex dex="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/pre-dexed/debug/javax.servlet-3.0.0.v201112011016_6f579fdca06091b85c51342cf634abd2fd496b86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mahdi/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-server/8.1.18.v20150929/ee8f0172c6ba2779ebaca0cc515bca0149a7f9e8/jetty-server-8.1.18.v20150929.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee8f0172c6ba2779ebaca0cc515bca0149a7f9e8">
+        <dex dex="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/pre-dexed/debug/jetty-server-8.1.18.v20150929_e59b7af7e76051d2d09af63977304e8357544a90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mahdi/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/19.0/6ce200f6b23222af3d8abb6b6459e6c44f4bb0e9/guava-19.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6ce200f6b23222af3d8abb6b6459e6c44f4bb0e9">
+        <dex dex="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/pre-dexed/debug/guava-19.0_71956eda0e240813aaa776ace14e1f73b3d61daa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/exploded-aar/it.sephiroth.android.library.horizontallistview/hlistview/1.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="698658e3af1e3f2a5b199e0d09ee6c57793405bd">
+        <dex dex="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/pre-dexed/debug/it.sephiroth.android.library.horizontallistview-hlistview-1.2.2_f10c1c75a400adcc638037623e6ec4809f8ecbc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mahdi/.m2/repository/org/seamless/seamless-util/1.1.1/seamless-util-1.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="989fb6690245740d76ed08634c04610f52ca1e2a">
+        <dex dex="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/pre-dexed/debug/seamless-util-1.1.1_d2ab426cabd33b55c8b71d8b60e718801d5de1a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mahdi/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/pre-dexed/debug/okio-1.8.0_e07375b40cac73002597cffc1b5495420ed7ecb0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mahdi/workspace/NiligoPrism/app/libs/ormlite-core-4.48.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e579bd2905d0399af5029aaaf9817d5fa0ca88a5">
+        <dex dex="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/pre-dexed/debug/ormlite-core-4.48_19219a9cb877edd3cf31f86d6f9eac2f365078b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/exploded-aar/pl.droidsonroids.gif/android-gif-drawable/1.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="18e3777df86177870625dce816292aecc871dc43">
+        <dex dex="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/pre-dexed/debug/pl.droidsonroids.gif-android-gif-drawable-1.2.1_8215ccba5100586f1d181ab511853a407487293b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mahdi/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-client/8.1.18.v20150929/f3cdc2e5a7b846dd1dd7641cd0fe8bf3f2d0ff1a/jetty-client-8.1.18.v20150929.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f3cdc2e5a7b846dd1dd7641cd0fe8bf3f2d0ff1a">
+        <dex dex="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/pre-dexed/debug/jetty-client-8.1.18.v20150929_0f4311de43e2a65e8d07b1cd52e2fcc39e3c0d7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mahdi/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_793946a2c8443329dbb1e01b221901bbdfed8805.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_0c8e6b0b6f3cdb42736364025365e4de064eb38a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mahdi/workspace/NiligoPrism/app/libs/ormlite-android-4.48.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="afa06f539a4026c10b247386312aa67404b80a16">
+        <dex dex="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/pre-dexed/debug/ormlite-android-4.48_37764759052c3c5852d7c38f868300341a05d682.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_5189351f43fee70f13032327a9e28897794f3156.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mahdi/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/pre-dexed/debug/library-2.4.0_31d4cc406dfafd1e9529664408b12f1b72a21228.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mahdi/.m2/repository/org/fourthline/cling/cling-core/2.1.2-SNAPSHOT/cling-core-2.1.2-SNAPSHOT.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="63c3ee73f73b06a859ded4b8ed52ad5681de85e2">
+        <dex dex="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/pre-dexed/debug/cling-core-2.1.2-SNAPSHOT_dae2fb6b26ca7760d15ac09553e318a628c81102.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_1a124b7c20ee91835c3b101b19a50b45e7a6cf41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mahdi/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-jdk14/1.7.14/32329169bdfa3d600f207f8606c58f2d2dd160e2/slf4j-jdk14-1.7.14.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="32329169bdfa3d600f207f8606c58f2d2dd160e2">
+        <dex dex="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/pre-dexed/debug/slf4j-jdk14-1.7.14_181b311c12e6d85c52b0df73c14d5970ac90285e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mahdi/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-io/8.1.18.v20150929/10874c1cae18d9588b2e6434b610ac9ee730833a/jetty-io-8.1.18.v20150929.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="10874c1cae18d9588b2e6434b610ac9ee730833a">
+        <dex dex="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/pre-dexed/debug/jetty-io-8.1.18.v20150929_7fbc3eed150077cfd23b17d3ef0dd2047a8a80ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/exploded-aar/it.sephiroth.android.library.horizontallistview/hlistview/1.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="698658e3af1e3f2a5b199e0d09ee6c57793405bd">
+        <dex dex="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/pre-dexed/debug/it.sephiroth.android.library.horizontallistview-hlistview-1.2.2_f10c1c75a400adcc638037623e6ec4809f8ecbc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mahdi/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-security/8.1.18.v20150929/75759ce5819e2efce218654ab5ce1acd5c42700/jetty-security-8.1.18.v20150929.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="075759ce5819e2efce218654ab5ce1acd5c42700">
+        <dex dex="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/pre-dexed/debug/jetty-security-8.1.18.v20150929_6c5e00108aad6daa15df61d33e020a13b8789da5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/exploded-aar/com.github.frankiesardo/linearlistview/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d52b800eb529f69bd5c807142349fe0967df8c99">
+        <dex dex="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/pre-dexed/debug/com.github.frankiesardo-linearlistview-1.0.1_aecea42390e3ace199866a261a22234b0abcb899.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mahdi/.m2/repository/org/seamless/seamless-http/1.1.1/seamless-http-1.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="18cc72baf8fbb8f85993dfc4e252c5b6b8cc0139">
+        <dex dex="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/pre-dexed/debug/seamless-http-1.1.1_2ee44125a2ed9cbdd751f68857c9a13b50bfb8fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mahdi/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-continuation/8.1.18.v20150929/52440f94ec15bf665646efb4481bb833db6dab67/jetty-continuation-8.1.18.v20150929.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="52440f94ec15bf665646efb4481bb833db6dab67">
+        <dex dex="/home/mahdi/workspace/NiligoPrism/app/build/intermediates/pre-dexed/debug/jetty-continuation-8.1.18.v20150929_4e61db7d7cad6fd6959b2bdf90de3234d2ba31c3.jar" />
+    </item>
+
+</items>
